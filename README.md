@@ -5,3 +5,7 @@ This site was build in Svelte for educational purposes and demos a cart/checkout
 ## storage
 
 The app will store all events (items) added to the cart in local storage to mimic how a real site would "remember" your items.
+
+## preview
+
+Deployed version of the site is available at [https://elastic-wozniak-db4cda.netlify.app/](https://elastic-wozniak-db4cda.netlify.app)
